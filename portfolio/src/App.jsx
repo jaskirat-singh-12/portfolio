@@ -14,7 +14,7 @@ const App = () => {
           Hey!, I’m Jaskirat Singh Bhatia,
         </h1>
         <h3 className="text-2xl py-2 dark:text-white">
-          a web developer specializing in the MERN stack.
+          a web developer specializing in the Frontend.
         </h3>
         <p className="text-md py-5 leading-8 text-gray-800 dark:text-white">
           {" "}

@@ -5,7 +5,7 @@ function Projects() {
     <>
       <div>
         <h1 className="text-4xl py-2 text-center font-bold">Services</h1>
-        <p className="px-2 text-md py-2 leading-8 text-gray-800">
+        <p className="px-6 text-md py-4 leading-8 text-gray-800">
           I approach each project with a problem-solving mindset, aiming to make
           applications user-centered and efficient. I also value teamwork and
           clear communication, ensuring projects move smoothly from idea to
@@ -16,7 +16,7 @@ function Projects() {
           accessible designs that work seamlessly across devices
         </p>
 
-        <p className="px-2 text-md py-2 leading-8 text-gray-800">
+        <p className="px-6 text-md py-4 leading-8 text-gray-800 ">
           Building complete, end-to-end web applications using the stack{" "}
           <span className="text-teal-600"> (Express, React, Node.js). </span>
           From front-end design to back-end functionality, I create responsive,
